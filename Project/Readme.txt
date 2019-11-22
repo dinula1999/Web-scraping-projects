@@ -1,3 +1,15 @@
+This PYTHON SCRIPT will scrape https://www.volunteermatch.org/search/orgs.jsp website's non-profit organization data as follows.
+
+***The first spider will scrape the pages necessary to get each organization links.
+
+***Second spider will scrape each organization page for Oraganization Name, Mission Statement and Website(Some org's don't have websites).
+
+please note that I have only scraped 4193 organization data as that was the amount of organizations available at the time of the publishing.
+
+
+___________________________________________________________________________________________________________________________________________
+						INSTRUCTIONS
+
 First and foremost you have to download and install Python (https://www.python.org/downloads/)
 
 Go to the command line or terminal in your computer and install the following libraries using pip.
