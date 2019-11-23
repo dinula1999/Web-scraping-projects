@@ -4,9 +4,6 @@ This PYTHON SCRIPT will scrape https://www.volunteermatch.org/search/orgs.jsp we
 
 ***Second spider will scrape each organization page for Oraganization Name, Mission Statement and Website(Some org's don't have websites).
 
-please note that I have only scraped 4193 organization data as that was the amount of organizations available at the time of the publishing.
-
-
 ___________________________________________________________________________________________________________________________________________
 						INSTRUCTIONS
 
