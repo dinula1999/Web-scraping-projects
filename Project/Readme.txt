@@ -1,3 +1,5 @@
+This project was assigned to me by a contractor. These were his requirements - https://docs.google.com/document/d/1m2dT-GgLVe2mi9PM_htli9LBh84HHsp_RSN2yiGSGCE/edit
+
 This PYTHON SCRIPT will scrape https://www.volunteermatch.org/search/orgs.jsp website's non-profit organization data as follows.
 
 ***The first spider will scrape the pages necessary to get each organization links.
