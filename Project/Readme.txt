@@ -1,4 +1,4 @@
-This project was assigned to me by a contractor. These were his requirements - https://docs.google.com/document/d/1m2dT-GgLVe2mi9PM_htli9LBh84HHsp_RSN2yiGSGCE/edit
+This project was assigned to me by a client. These were his requirements - https://docs.google.com/document/d/1m2dT-GgLVe2mi9PM_htli9LBh84HHsp_RSN2yiGSGCE/edit
 
 This PYTHON SCRIPT will scrape https://www.volunteermatch.org/search/orgs.jsp website's non-profit organization data as follows.
 
@@ -9,7 +9,7 @@ This PYTHON SCRIPT will scrape https://www.volunteermatch.org/search/orgs.jsp we
 ___________________________________________________________________________________________________________________________________________
 						INSTRUCTIONS
 
-First and foremost you have to download and install Python (https://www.python.org/downloads/)
+Firstly you have to download and install Python (https://www.python.org/downloads/)
 
 Go to the command line or terminal in your computer and install the following libraries using pip.
 	***Scrapy (http://docs.scrapy.org/en/latest/intro/install.html)
@@ -21,4 +21,3 @@ After downloading the Project folder locate that folder in terminal(MacOs,Linux)
 ***afeter that use this command -  scrapy crawl project_spider1
 
 You will see org_list.txt and organization_info.csv in the Project folder.
-
